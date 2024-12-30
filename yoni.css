@@ -1,0 +1,89 @@
+.yoni1 {
+    position: relative;
+right: 100px;
+bottom: 20px;
+ height: 100px;
+ width: 1300px;
+ background-color: black;
+}
+
+.img1{
+    position: relative;
+    bottom: 100px;
+}
+
+.img2 {
+    height: 700px;
+    width: 1250px;
+    position: relative;
+    bottom: 90px;
+    right: 50px;
+}
+
+.img3 {
+    position: relative;
+    bottom: 870px;
+    left: 600px;
+}
+
+h1 {
+    font-family: "Oxanium", serif;;
+    position: absolute;
+    bottom: 200px;
+    color: white;
+    font-size: 80px;
+    left: 30px;
+}
+
+h2 {
+    font-family: "Playwrite GB S", serif;;
+    font-size: 90px;
+    position: relative;
+    bottom: 700px;
+    left: 20px;
+    color: aliceblue;
+}
+
+h3 {
+    font-family: "Oxanium", serif;;
+    font-size: 25px;
+    position: relative;
+    bottom: 700px;
+    color: white;
+}
+
+.yoni2 {
+    height: 400px;
+    width: 600px;
+    background-color: rgb(16,16,16);
+    position: relative;
+    bottom: 510px;
+    right: 5px;
+    color: antiquewhite;
+    font-size: 30px;
+    font-family:"Oxanium", serif; ;
+    
+}
+html {
+    background-color: black;
+}
+
+.img4 {
+    position: relative;
+    bottom: 840px;
+    left: 700px;
+    height: 300px;
+    width: 400px;
+    
+}
+
+.yoni5 {
+    display: flex;
+    position: relative;
+    bottom: 900px;
+    font-size: 40px;
+    color: aliceblue;
+    font-family:"Oxanium", serif; ;
+}
+
+
